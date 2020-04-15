@@ -39,3 +39,11 @@ footer {
   bottom: 0;
   
 }
+
+.wilds {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;  
+  height: 250px;
+  margin: 50px;
+}
